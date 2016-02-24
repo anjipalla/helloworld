@@ -1,4 +1,4 @@
-<project name="HelloWorld" default="help" basedir=".">
+<project name="HelloWorld" default="dist" basedir=".">
   <!-- Define the properties used by the build -->
   <property name="app.name"      value="hello"/>
   <property name="work.home"    value="${basedir}/work"/>
