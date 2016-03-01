@@ -40,7 +40,7 @@ public final class Hello extends HttpServlet {
         writer.println("<table border=\"0\" cellpadding=\"10\">");
         writer.println("<tr>");
         writer.println("<td>");
-        writer.println("<img src=\"images/springsource.png\">");
+        writer.println("<img src=\"images/1.jpg\">");
         writer.println("</td>");
         writer.println("<td>");
         writer.println("<h1>Sample Application Servlet</h1>");
